@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, i'm Hervé Yves 👋
 
-<!--
-**hervegithub/hervegithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developer MEAN stack .
 
-Here are some ideas to get you started:
+[![Amen's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work at Vyconsulting (@vy-group). An agency that I created with two of my friends.
+
+I love code and it's been almost three years that I trained as a self-taught.🤓🤓 I fell in love with javascript that's why I would like to deepen my knowledge on Angular, Ionic, Nodejs and Nestjs technologies.
+
+Basically I am a network and telecommunications engineer
+
+You can follow me on Twitter for fun discussions...
+
+Happy to read your resume also on your profile.
+
+Thanks !
+
