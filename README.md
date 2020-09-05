@@ -1,12 +1,13 @@
 ### Hi there, i'm Hervé Yves 👋
 
-I'm developer `MEAN stack` .
+I'm <b>MEAN stack</b> developer  .
 
 ![herve's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub&show_icons=true&theme=radical)
 
-I work at Vyconsulting (@vy-group). An agency that I created with two of my friends.
+I work at <b>Vyconsulting</b> (@vy-group). An agency that I created with two of my friends.
 
-I love code and it's been almost three years that I trained as a self-taught.🤓🤓 I fell in love with javascript that's why I would like to deepen my knowledge on `Angular`, `Ionic`, `Nodejs` and `Nestjs` technologies.
+I love code and it's been almost three years that I trained as a self-taught.🤓🤓 I fell in love with javascript that's why I would like to deepen my knowledge on
+<b>`Angular`, `Ionic`, `Nodejs` and `Nestjs`</b> technologies.
 
 Basically I am a network and telecommunications engineer
 
