@@ -12,7 +12,9 @@ Basically I am a network and telecommunications engineer
 
 You can follow me on Twitter for fun discussions...
 
-Happy to read your resume also on your profile.
+Happy to read your resume also on your profile and work with.
+
+![Gift developer](https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif)
 
 Thanks !
 
