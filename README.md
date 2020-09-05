@@ -14,8 +14,8 @@ You can follow me on Twitter for fun discussions...
 
 Happy to read your resume also on your profile and work with.
 
-<p align="center">
- <img width="70px" height="70px" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" align="center" alt="GitHub Readme Stats" />
+<p align="left">
+ <img width="120px" height="120px" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" align="center" alt="GitHub Readme Stats" />
 </p>
 
 
