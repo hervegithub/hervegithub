@@ -2,7 +2,7 @@
 
 I'm <b>MEAN stack</b> developer  .
 
-![herve's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub&show_icons=true&theme=radical)
+![herve's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub&count_private=true&count_public=%22true%22&show_icons=true&theme=radical)
 
 I work at <b>Vyconsulting</b> (@vy-group). An agency that I created with two of my friends.
 
