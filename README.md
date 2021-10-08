@@ -2,14 +2,15 @@
 
 I'm <b>MEAN stack</b> developer  .
 
-[![hervegithub's GitHub stats](https://github-readme-stats.vercel.app/api?username=hervegithub)](https://github.com/hervegithub/github-readme-stats)
-
 ![herve's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub&count_private=true&count_public=%22true%22&show_icons=true&theme=radical)
+
 
 I work at <b>Vyconsulting</b> (@vy-group). An agency that I created with two of my friends.
 
 I love code and it's been almost three years that I trained as a self-taught.🤓🤓 I fell in love with javascript that's why I would like to deepen my knowledge on
 <b>`Angular`, `Ionic`, `Nodejs` and `Nestjs`</b> technologies.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hervegithub&layout=compact)](https://github.com/hervegithub/github-readme-stats)
 
 Basically I am a network and telecommunications engineer
 
