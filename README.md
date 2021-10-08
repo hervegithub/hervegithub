@@ -10,7 +10,7 @@ I work at <b>Vyconsulting</b> (@vy-group). An agency that I created with two of 
 I love code and it's been almost three years that I trained as a self-taught.🤓🤓 I fell in love with javascript that's why I would like to deepen my knowledge on
 <b>`Angular`, `Ionic`, `Nodejs` and `Nestjs`</b> technologies.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hervegithub&layout=compact)](https://github.com/hervegithub/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hervegithub&layout=compact)
 
 Basically I am a network and telecommunications engineer
 
