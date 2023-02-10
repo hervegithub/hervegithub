@@ -1,6 +1,6 @@
-### Hi there, i'm Hervé Yves 👋
+### Hi, i'm Hervé Yves 👋
 
-I'm <b>MEAN stack</b> developer  .
+I'm <b>Front-end & mobile</b> developer  .
 
 ![herve's github stats](https://github-readme-stats.vercel.app/api?username=hervegithub&count_private=true&count_public=%22true%22&show_icons=true&theme=radical)
 
